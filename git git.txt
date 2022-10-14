@@ -1,0 +1,6 @@
+git clone <your link>
+cd <project name>
+code .
+git add .
+git commit -m " your comment"
+git push origin main
